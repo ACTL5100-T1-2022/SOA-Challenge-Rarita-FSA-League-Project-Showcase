@@ -24,7 +24,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ## Table of Content
 > 
-* Exclusive Summary
+* Executive Summary
 * Team selection
 * Economic Impacts
 
