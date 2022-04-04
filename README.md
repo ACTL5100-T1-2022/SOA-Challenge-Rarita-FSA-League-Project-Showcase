@@ -25,7 +25,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ## Table of Content
 > 
-* Executive Summary
+* [Executive Summary](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
 * Team selection
 * Economic Impacts
 
