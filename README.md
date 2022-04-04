@@ -33,7 +33,11 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 >
 * Player Performance Index (PPI): measure the ability of player
 * Salary Efficiency (SE): measuring whether a player is worth the salary he receives
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 * 3-Round Selection
+** STEP 1
+** STEP 2
+** STEP 3
 * Team Selection Results
 
 
