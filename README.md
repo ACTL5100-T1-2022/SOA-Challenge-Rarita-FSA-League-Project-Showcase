@@ -29,7 +29,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 * Economic Impacts
 
 # Team selection
----
+
 
 ### Hi guys!! I am Dorothy :)
 ### Hey Dorothy, it's Naegel
