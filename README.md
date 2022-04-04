@@ -29,6 +29,9 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 * [Team selection](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
 * Economic Impacts
 
+# Executive Summary
+
+
 # Team selection
 * Player Performance Index (PPI): measure the ability of player
 * Salary Efficiency (SE): measuring whether a player is worth the salary he receives
