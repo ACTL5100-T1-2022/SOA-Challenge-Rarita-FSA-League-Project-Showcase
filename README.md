@@ -32,7 +32,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 # Team selection
 * Player Performance Index (PPI): measure the ability of player
 * Salary Efficiency (SE): measuring whether a player is worth the salary he receives
-* ![](http://latex.codecogs.com/svg.latex?\text{c=frac{a}{b}})
+* ![](http://latex.codecogs.com/svg.latex?\c=frac{\text{Player Performance Index}}{\text{Highest Salary Receive in the latest Season}})
 * 3-Round Selection
 ** STEP 1
 ** STEP 2
