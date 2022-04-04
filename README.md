@@ -23,7 +23,8 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
 
 ## Table of Content
-
+> Exclusive Summary
+> Economic Impacts
 ### Hi guys!! I am Dorothy :)
 ### Hey Dorothy, it's Naegel
 ### Economic Impacts
