@@ -24,5 +24,5 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ### Hi guys!! I am Dorothy :)
 ### Hey Dorothy, it's Naegel
-### Heyyyy, it's Manjie 
+### Economic Impact
 ### Testing by Dorothy
