@@ -1,3 +1,4 @@
+![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/859fdceb6559c4af0c8ab88335304dbdb18a83c5/Banner.png)
 # Group "Exemption"
 # Rarita National Soccer Team Selection Report
 
