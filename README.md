@@ -22,7 +22,7 @@ This is written in markdown language.
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
 
-#### Table of Content
+## Table of Content
 
 ### Hi guys!! I am Dorothy :)
 ### Hey Dorothy, it's Naegel
