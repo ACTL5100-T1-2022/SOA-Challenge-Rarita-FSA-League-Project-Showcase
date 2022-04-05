@@ -55,11 +55,11 @@ We will then finish our analysis by underlining key risks and limitations that w
 
 
 # Implementation Plan
-## Team Renewal Plan
+### Team Renewal Plan
 Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft. 
-## Fund-Raising Strategy 
+### Fund-Raising Strategy 
 There are several ways to raise funds to support the team’s ongoing expenses. One of the most common ways is to sell football match tickets. Furthermore, another way is to loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons. Moreover, in an attempt to raise funds, we could also design and sell unique merchandise like headbands, t-shirts, and even player trading cards. 
-## Marketing Strategy 
+### Marketing Strategy 
 To increase the team’s recognition, we may build a brand about the team.  Designating the most famous players to promote the brand’s apparel to promote the team should also be advocated. Moreover, social media platforms like Twitter, Instagram, and even Facebook are good ways to update fans about the latest news concerning the team. TV and radio interviews can also raise the recognition of the football team. Furthermore, prize draws, where fans would be able to meet the players, for instance, are a cheap and effective way to create hype around the team and thank the fans. Pushing these events through social media platforms are likely to attract more followings and create engagement. In addition, we can increase community involvement to enhance the team’s recognition, this can be done through volunteering or make-a-wish events. Further, while giving back is a reward in itself, community participation will not only help in fostering relationships between the players but could also unify the country around the national team.
 # Assumptions
 # Risk
