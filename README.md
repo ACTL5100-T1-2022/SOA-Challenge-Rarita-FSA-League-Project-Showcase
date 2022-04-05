@@ -29,7 +29,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 * [Objectives](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#objectives)
 * [Team selection](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
 * Economic Impacts
-
+* [Risk & Risk Mitigations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Risk)
 # Executive Summary
 
 This report focuses on the creation of a competitive national football team for Rarita. The decision to create a national team might, at first, seem to be a sound one. In the UK for instance, the value added to the economy by the Premier League grossed 7.6 billion pounds in 2019/20 (EY, 2022). However, the implementation will not be an easy one. Indeed, to generate a positive cash flow for the country, we must take into consideration the allocated budget to fund the team, while making sure that the brand created around the latter generates a positive income stream.  
