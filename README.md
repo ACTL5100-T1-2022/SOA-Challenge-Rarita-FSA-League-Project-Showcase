@@ -50,11 +50,9 @@ We will then finish our analysis by underlining key risks and limitations that w
 * ![](http://latex.codecogs.com/svg.latex?\c=frac{\text{Player Performance Index}}{\text{Highest Salary Receive in the latest Season}})
 * 3-Round Selection
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart LR;
+    A(Round 1: Top 50% of SE)-->B(Round 2: Rarita Players in Top 10% of PPI)--the team is not full-->C(Round 3: Foreign Players with top PPI)
+    B--the team is full-->D(End Selection)
 ```
 ** STEP 1
 ** STEP 2
