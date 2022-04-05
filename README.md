@@ -49,6 +49,13 @@ We will then finish our analysis by underlining key risks and limitations that w
 * Salary Efficiency (SE): measuring whether a player is worth the salary he receives
 * ![](http://latex.codecogs.com/svg.latex?\c=frac{\text{Player Performance Index}}{\text{Highest Salary Receive in the latest Season}})
 * 3-Round Selection
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 ** STEP 1
 ** STEP 2
 ** STEP 3
