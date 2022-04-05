@@ -46,14 +46,15 @@ We will then finish our analysis by underlining key risks and limitations that w
 
 # Team selection
 * [Player Performance Index (PPI)]![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png): measure the ability of player
-* Salary Efficiency (SE): measuring whether a player is worth the salary he receives
+* Salary Efficiency (SE): measure whether a player is worth the salary he received
+![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png)
 * 3-Round Selection
 ```mermaid
 flowchart LR;
     A(Round 1: Top 50% of SE)-->B(Round 2: Rarita Players in Top 10% of PPI)--the team is not full-->C(Round 3: Add foreign players with top PPI)
     B--the team is full-->D(Round 3: Remove excess players with lowest PPI)
 ```
-* Team Selection Results
+* [Team Selection Results](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png)
 
 
 # Implementation Plan
