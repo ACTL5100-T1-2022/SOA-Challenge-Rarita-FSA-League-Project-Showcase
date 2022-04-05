@@ -59,11 +59,11 @@ flowchart LR;
     - step 1: pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team
     - step 2: simulate 5000 times to create a dstribution of the teams' average PPI
     - step 3: test if the distribution is normal distribution using Shapiro Test
-    - step 4: calculate the probability of the Rarita Team
-* **Testing Result**: result of Shapiro Test indicates that the distribution is normal and the probability for rarita Team to be competitive is close to 1.
+    - step 4: if normal, calculate the probability for Rarita Team to be competitive using the fitted disrtibution
+* **Testing Result**: [result of Shapiro Test](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/test.png) indicates that [the distribution](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/distribution.png) is normal and the probability for Rarita Team to be competitive is close to 1.
 
 
-# Implementation Plan
+# Implementation Plated
 ### Team Renewal Plan
 Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft. 
 ### Fund-Raising Strategy 
