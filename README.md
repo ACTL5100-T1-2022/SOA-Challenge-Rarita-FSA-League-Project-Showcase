@@ -45,7 +45,7 @@ We will then finish our analysis by underlining key risks and limitations that w
 * Creation of a brand around the team
 
 # Team selection
-* Player Performance Index (PPI): measure the ability of player
+* [Player Performance Index (PPI)](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png): measure the ability of player
 * Salary Efficiency (SE): measuring whether a player is worth the salary he receives
 * 3-Round Selection
 ```mermaid
