@@ -45,9 +45,8 @@ We will then finish our analysis by underlining key risks and limitations that w
 * Creation of a brand around the team
 
 # Team selection
-* [Player Performance Index (PPI)]![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png): measure the ability of player
-* Salary Efficiency (SE): measure whether a player is worth the salary he received
-![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png)
+* [Player Performance Index (PPI)](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png): measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
+* [Salary Efficiency (SE)](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png): measure whether a player is worth the salary he received
 * 3-Round Selection
 ```mermaid
 flowchart LR;
