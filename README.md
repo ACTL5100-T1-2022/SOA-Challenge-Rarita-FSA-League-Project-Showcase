@@ -28,6 +28,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 * [Executive Summary](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#executive-summary)
 * [Objectives](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#objectives)
 * [Team selection](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
+* [Implementation Plan](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Implementation-Plan)
 * Economic Impacts
 * [Risk & Risk Mitigations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Risk)
 # Executive Summary
