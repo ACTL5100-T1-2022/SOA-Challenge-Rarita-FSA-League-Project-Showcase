@@ -117,8 +117,9 @@ The expected revenue table demonstrates that the chosen football team will gener
 ### Team Renewal Plan
 Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft.
 ### Fund-Raising Strategy 
-The most common way is to sell football match tickets. Furthermore, another way is to loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons. Moreover, in an attempt to raise funds, we could also design and sell unique merchandise like headbands, t-shirts, and even player trading cards.
- 
+*sell football match tickets
+*loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons
+*design and sell unique merchandise like headbands, t-shirts, and even player trading cards
 ### Marketing Strategy 
 To increase the team’s recognition, we may build a brand about the team. Designating the most famous players to promote the brand’s apparel to promote the team should also be advocated. Moreover, social media platforms like Twitter, Instagram, and even Facebook are good ways to update fans about the latest news concerning the team. In addition, we can increase community involvement to enhance the team’s recognition, this can be done through volunteering or make-a-wish events. Further, while giving back is a reward in itself, community participation will not only help in fostering relationships between the players but could also unify the country around the national team.
 
