@@ -51,14 +51,19 @@ flowchart LR;
 # Economic Impact
 ### Rarita's Economy 
 According to given Rarita's economic data, several trends are observed:
-* [Declining GDP](https://user-images.githubusercontent.com/102961370/161872236-2d0a6d83-aa24-4414-9153-8a8b5a1084b0.png)
-* [Decreasing Inflation Rates](https://user-images.githubusercontent.com/102961370/161872270-08ae5435-f885-4ee8-bcd5-c0e27e0ee9da.png)
-* [Decreasing Spot Rates (across different maturities)](https://user-images.githubusercontent.com/102961370/161872288-cb88dbf5-6e1d-4c6b-b1d0-7589d77fbc28.png)
+* [Declining GDP]![1](https://user-images.githubusercontent.com/102961370/161916581-6e6d4b76-9f0a-41ba-99d5-e976eaf318de.png)
+* [Decreasing Inflation Rates]![2](https://user-images.githubusercontent.com/102961370/161916610-5461e2f3-3804-4b34-9827-aee02a702c8b.png)
+* [Decreasing Spot Rates (across different maturities)]![3](https://user-images.githubusercontent.com/102961370/161916692-547c4336-71b3-45ad-bede-b1b4a185ab6b.png)
 <br>
 From economic perspective, Rarita seems to be at contraction phase. 
 
 ### Analysis of Revenues, Expenses and Salaries
-[Expected revenue table](https://user-images.githubusercontent.com/102961370/161873107-63905fa7-21a7-4acb-a6b3-686236d4d309.png) demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend. [Expected expense & salary table](https://user-images.githubusercontent.com/102961370/161873337-a17cf908-c22d-4dad-9422-132ee371174a.png) also provides a brief estimations of the possible future outgoings. What is noteworthy is that the [salary expenses](https://user-images.githubusercontent.com/102961370/161873989-1144345b-eb3f-462c-9965-dea57b6e3798.png) are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
+The expected revenue table demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend. ![4](https://user-images.githubusercontent.com/102961370/161916813-cfb60b24-c58c-4c79-98f3-ebe71aa8bf78.png)
+Then, expected expense & salary table also provides a brief estimations of the possible future outgoings. 
+![5](https://user-images.githubusercontent.com/102961370/161916926-d3b1efc4-4bae-4f62-be3b-ff240ebbeaab.png)
+What is noteworthy is that the salary expenses are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
+![6](https://user-images.githubusercontent.com/102961370/161917030-72f6a848-5589-4fcd-ada1-b6d33346e1d4.png)
+
 
 ### Indirect Economic Impacts
 * Construction and urban Development
