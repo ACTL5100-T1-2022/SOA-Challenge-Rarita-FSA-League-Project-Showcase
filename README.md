@@ -8,7 +8,7 @@
 * [Implementation Plan](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Implementation-Plan)
 * [Assumptions](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Assumptions)
 * [Risk & Risk Mitigations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Risk)
-* [Data & Data limitations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Data & Data Limitations)
+* [Data & Data Limitations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Data & Data Limitations)
 * [References](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#References)
 
 # Executive Summary
