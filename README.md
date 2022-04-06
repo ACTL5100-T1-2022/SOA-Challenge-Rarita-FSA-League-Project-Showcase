@@ -62,6 +62,8 @@ flowchart LR;
     - step 4: if normal, calculate the probability for Rarita Team to be competitive using the fitted disrtibution
 * **Testing Result**: [result of Shapiro Test](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/test.png) indicates that [the distribution](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/distribution.png) is normal and the probability for Rarita Team to be competitive is close to 1.
 
+# Economic Impact
+### Rarita's Economy 
 
 # Implementation Plan
 ### Team Renewal Plan
