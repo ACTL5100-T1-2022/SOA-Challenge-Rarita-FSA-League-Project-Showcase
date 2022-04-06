@@ -87,12 +87,23 @@ According to given Rarita's economic data, several trends are observed:
 From economic perspective, Rarita seems to be at contraction phase. 
 
 ### Analysis of Revenues, Expenses and Salaries
-The expected revenue table demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend. ![4](https://user-images.githubusercontent.com/102961370/161916813-cfb60b24-c58c-4c79-98f3-ebe71aa8bf78.png)
-<br>Then, expected expense & salary table also provides a brief estimations of the possible future outgoings. 
-![5](https://user-images.githubusercontent.com/102961370/161916926-d3b1efc4-4bae-4f62-be3b-ff240ebbeaab.png)
-<br>What is noteworthy is that the salary expenses are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
-![6](https://user-images.githubusercontent.com/102961370/161917030-72f6a848-5589-4fcd-ada1-b6d33346e1d4.png)
+The expected revenue table demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend. 
 
+<p align="center">
+   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916813-cfb60b24-c58c-4c79-98f3-ebe71aa8bf78.png alt="ei4">
+</p>
+
+<br>Then, expected expense & salary table also provides a brief estimations of the possible future outgoings. 
+
+<p align="center">
+   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916926-d3b1efc4-4bae-4f62-be3b-ff240ebbeaab.png alt="ei5">
+</p>
+
+<br>What is noteworthy is that the salary expenses are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
+
+<p align="center">
+   <img width="500" src= https://user-images.githubusercontent.com/102961370/161917030-72f6a848-5589-4fcd-ada1-b6d33346e1d4.png alt="ei6">
+</p>
 
 ### Indirect Economic Impacts
 * Construction and urban Development
