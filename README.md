@@ -51,9 +51,9 @@ flowchart LR;
 # Economic Impact
 ### Rarita's Economy 
 According to given Rarita's economic data, several trends are observed:
-* [Declining GDP]![1](https://user-images.githubusercontent.com/102961370/161916581-6e6d4b76-9f0a-41ba-99d5-e976eaf318de.png)
-* [Decreasing Inflation Rates]![2](https://user-images.githubusercontent.com/102961370/161916610-5461e2f3-3804-4b34-9827-aee02a702c8b.png)
-* [Decreasing Spot Rates (across different maturities)]![3](https://user-images.githubusercontent.com/102961370/161916692-547c4336-71b3-45ad-bede-b1b4a185ab6b.png)
+* Declining GDP![1](https://user-images.githubusercontent.com/102961370/161916581-6e6d4b76-9f0a-41ba-99d5-e976eaf318de.png)
+* Decreasing Inflation Rates![2](https://user-images.githubusercontent.com/102961370/161916610-5461e2f3-3804-4b34-9827-aee02a702c8b.png)
+* Decreasing Spot Rates (across different maturities)![3](https://user-images.githubusercontent.com/102961370/161916692-547c4336-71b3-45ad-bede-b1b4a185ab6b.png)
 <br>
 From economic perspective, Rarita seems to be at contraction phase. 
 
