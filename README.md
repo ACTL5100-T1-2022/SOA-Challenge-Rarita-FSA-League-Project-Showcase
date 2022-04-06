@@ -47,15 +47,18 @@ This report focuses on the creation of a competitive national football team for 
 
 # Team selection
 * **Two Measurements**
-    * [Player Performance Index (PPI)](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png): Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
-    * [Salary Efficiency (SE)](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png): Measure whether a player is worth the salary he received.
+    * Player Performance Index (PPI): Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
+![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png)
+    * Salary Efficiency (SE): Measure whether a player is worth the salary he received.
+![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png)
 * **3-Round Selection**
 ```mermaid
 flowchart LR;
     A(Round 1: Top 50% of SE)-->B(Round 2: Rarita Players in Top 10% of PPI)--the team is not full-->C(Round 3: Add foreign players with top PPI)
     B--the team is full-->D(Round 3: Remove excess players with lowest PPI)
 ```
-* **Click to see [Team Selection Results](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png)**
+* **Click to see Team Selection Results**
+![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png)
 * **Competitive Testing**
     - Step 1: Pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team.
     - Step 2: Simulate 5000 times to create a dstribution of the teams' average PPI.
@@ -118,13 +121,13 @@ Players are the most treasured possessions of a soccer team and are the foundati
     * Prediction of inflation for future salaries of each player is done based on a linear regression which describes the relationship between time and inflation rates. Such a model does not account for variation on some variables such as employability of that position, players’ performance, the experience of players, etc. 
  
 # References 
-Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
+* Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
 
-EY (Ed.). (2022). Premier League: Economic and social impact. Retrieved from https://resources.premierleague.com/premierleague/document/2022/01/17/b61d9bb0-1488-4cd1-be25-82be98073252/EYUK-000142222_PL-economic-and-social-contribution_28_Spread_HR_2.pdf?utm_source=premier-league-website&utm_campaign=website&utm_medium=link.
+* EY (Ed.). (2022). Premier League: Economic and social impact. Retrieved from https://resources.premierleague.com/premierleague/document/2022/01/17/b61d9bb0-1488-4cd1-be25-82be98073252/EYUK-000142222_PL-economic-and-social-contribution_28_Spread_HR_2.pdf?utm_source=premier-league-website&utm_campaign=website&utm_medium=link.
 Heart attacks, sudden deaths in football must force authorities to raise safety bar. (2022, January 3). Retrieved from Arab News website: https://www.arabnews.com/node/1997221/sport
 
-Lee, C.-K., & Taylor, T. (2005). Critical reflections on the economic impact assessment of a mega-event: the case of 2002 FIFA World Cup. Tourism Management, 26(4), 595–603. https://doi.org/10.1016/j.tourman.2004.03.002
+* Lee, C.-K., & Taylor, T. (2005). Critical reflections on the economic impact assessment of a mega-event: the case of 2002 FIFA World Cup. Tourism Management, 26(4), 595–603. https://doi.org/10.1016/j.tourman.2004.03.002
 
-Medina, D., Lizarraga, A. & Drobnic, F. (2014). Injury Prevention and Nutrition in Football. Gatorade Sports Science Institute. Retrieved from https://www.gssiweb.org/sports-science-exchange/article/sse-132-injury-prevention-and-nutrition-in-football#articleTopic_7
+* Medina, D., Lizarraga, A. & Drobnic, F. (2014). Injury Prevention and Nutrition in Football. Gatorade Sports Science Institute. Retrieved from https://www.gssiweb.org/sports-science-exchange/article/sse-132-injury-prevention-and-nutrition-in-football#articleTopic_7
 
-The inflationary consequences of Russia’s war will spread. (2022, March 19). Retrieved from The Economist website: https://www.economist.com/finance-and-economics/the-inflationary-consequences-of-russias-war-will-spread/21808192
+* The inflationary consequences of Russia’s war will spread. (2022, March 19). Retrieved from The Economist website: https://www.economist.com/finance-and-economics/the-inflationary-consequences-of-russias-war-will-spread/21808192
