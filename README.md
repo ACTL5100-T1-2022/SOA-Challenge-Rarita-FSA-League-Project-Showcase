@@ -36,7 +36,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 This report focuses on the creation of a competitive national football team for Rarita. The decision to create a national team might, at first, seem to be a sound one. In the UK for instance, the value added to the economy by the Premier League grossed 7.6 billion pounds in 2019/20 (EY, 2022). However, the implementation will not be an easy one. Indeed, to generate a positive cash flow for the country, we must take into consideration the allocated budget to fund the team, while making sure that the brand created around the latter generates a positive income stream.
 
 Throughout this report, we will:
-* Undertake a team selection analysis by creating a player performance index 
+* Undertake a team selection analysis by creating a player performance index. 
 * Underline key risks and limitations that would prevent Rarita from reaching its goal and how to potentially mitigate them. 
 
 
