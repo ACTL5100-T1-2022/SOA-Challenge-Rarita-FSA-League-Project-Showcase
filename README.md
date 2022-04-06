@@ -109,7 +109,9 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * The raw data consist of negative values in variables such as Standard Free Kicks, Standard shots on target per 90 minutes, etc. Removing it would be reasonable as it would be impossible to have negative number of shots. Click [here](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/2022-student-research-case-study-player-data%20202234.xlsx) to have a look.
     * Percentages higher than the standard 100% has been removed as the playtime is too short to be considered. <br>
     
-![Data Limitation](https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif)
+<p align="center">
+   <img width="500" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif>
+</p>
 
 * **Data Limitation**
     * Removing data based on such analysis would result in misleading or inaccurate results as we may remove important information which provides high significance to our analysis.
@@ -119,7 +121,9 @@ Injuries to player health cause higher expected loss for the team than exposure 
  
 **Thank you for reading our report and we hope you have a pleasant day!** 
 <br>
-![giphy](https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif)
+<p align="center">
+   <img width="500" src= https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif>
+</p>
 
 # References 
 * Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
