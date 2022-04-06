@@ -115,13 +115,16 @@ The expected revenue table demonstrates that the chosen football team will gener
 
 # Implementation Plan
 ### Team Renewal Plan
-Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft.
-### Fund-Raising Strategy 
+Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft.  
+### Fund-Raising Strategy   
 * sell football match tickets
-* loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons
+* loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons 
 * design and sell unique merchandise like headbands, t-shirts, and even player trading cards
 ### Marketing Strategy 
-To increase the team’s recognition, we may build a brand about the team. Designating the most famous players to promote the brand’s apparel to promote the team should also be advocated. Moreover, social media platforms like Twitter, Instagram, and even Facebook are good ways to update fans about the latest news concerning the team. In addition, we can increase community involvement to enhance the team’s recognition, this can be done through volunteering or make-a-wish events. Further, while giving back is a reward in itself, community participation will not only help in fostering relationships between the players but could also unify the country around the national team.
+* Build a brand about the team. Designating the most famous players to promote the brand’s apparel to promote the team should also be advocated. 
+* Use social media platforms like Twitter, Instagram, and even Facebook to update fans about the latest news concerning the team. TV and radio interviews can also raise the recognition of the football team. 
+* Set prize draws, where fans would be able to meet the players. Pushing these events through social media platforms are likely to attract more followings and create engagement.  
+* Increase community involvement to enhance the team’s recognition, this can be done through volunteering or make-a-wish events. Further, while giving back is a reward in itself, community participation will not only help in fostering relationships between the players but could also unify the country around the national team. 
 
 # Assumptions
 As the data given are limited, hence a few assumptions have been made for further analysis. With the current economic status in Rarita, we would assume that the economy would remain stable with no unexpected events such as the COVID-19 pandemic in 2020 which affected Rarita's future economic predictions. 
