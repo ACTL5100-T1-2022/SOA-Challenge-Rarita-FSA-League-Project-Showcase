@@ -26,7 +26,6 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 # Table of Content
 > 
 * [Executive Summary](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#executive-summary)
-* [Objectives](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#objectives)
 * [Team selection](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
 * [Economic Impacts](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Economic-Impact)
 * [Implementation Plan](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Implementation-Plan)
@@ -41,7 +40,7 @@ We will then outline a plausible implementation plan as well as detail the econo
 
 We will then finish our analysis by underlining key risks and limitations that would prevent Rarita from reaching its goal and how to potentially mitigate them. These risks include the health condition of the players at the time of the competition, inherent risks associated with simulations and other unforeseen circumstances associated with huge economic impacts, such as the COVID-19 pandemic. 
 
-# Objectives
+* **Ojectives**
 * Creation of a nationally competitive team for Rarita
 * Creation of a brand around the team
 
