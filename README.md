@@ -40,7 +40,7 @@ We will then outline a plausible implementation plan as well as detail the econo
 
 We will then finish our analysis by underlining key risks and limitations that would prevent Rarita from reaching its goal and how to potentially mitigate them. These risks include the health condition of the players at the time of the competition, inherent risks associated with simulations and other unforeseen circumstances associated with huge economic impacts, such as the COVID-19 pandemic. 
 
-* **Ojectives**
+## **Ojectives**
 * Creation of a nationally competitive team for Rarita
 * Creation of a brand around the team
 
