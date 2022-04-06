@@ -28,8 +28,8 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 * [Executive Summary](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#executive-summary)
 * [Objectives](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#objectives)
 * [Team selection](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#team-selection)
+* [Economic Impacts](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Economic-Impact)
 * [Implementation Plan](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Implementation-Plan)
-* Economic Impacts
 * [Risk & Risk Mitigations](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption#Risk)
 # Executive Summary
 
@@ -64,6 +64,10 @@ flowchart LR;
 
 # Economic Impact
 ### Rarita's Economy 
+According to given Rarita's economic data, several trends are observed:
+* Declining GDP
+* Decreasing Inflation Rates
+* Decreasing Spot Rates (across different maturities)
 
 # Implementation Plan
 ### Team Renewal Plan
