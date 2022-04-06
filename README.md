@@ -1,27 +1,4 @@
 ![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/859fdceb6559c4af0c8ab88335304dbdb18a83c5/Banner.png)
-# Group "Exemption"
-# Rarita National Soccer Team Selection Report
-
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
-
----
-
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
 
 # Table of Content
 > 
@@ -40,7 +17,6 @@ This report focuses on the creation of a competitive national football team for 
 * Undertake a team selection analysis by creating a player performance index. 
 * Underline key risks and limitations that would prevent Rarita from reaching its goal and how to potentially mitigate them. 
 
-
 **Objectives**
 * Creation of a nationally competitive team for Rarita
 * Creation of a brand around the team
@@ -57,13 +33,15 @@ flowchart LR;
     A(Round 1: Top 50% of SE)-->B(Round 2: Rarita Players in Top 10% of PPI)--the team is not full-->C(Round 3: Add foreign players with top PPI)
     B--the team is full-->D(Round 3: Remove excess players with lowest PPI)
 ```
-* **Click to see Team Selection Results**
+* **Team Selection Results**
 ![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png)
+
 * **Competitive Testing**
     - Step 1: Pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team.
     - Step 2: Simulate 5000 times to create a dstribution of the teams' average PPI.
     - Step 3: Test if the distribution is normal distribution using Shapiro Test.
     - Step 4: If normal, calculate the probability for Rarita Team to be competitive using the fitted disrtibution.
+
 * **Testing Result**: [Result of Shapiro Test](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/test.png) indicates that [the distribution](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/distribution.png) is normal and the probability for Rarita Team to be competitive is close to 1.
 
 # Economic Impact
