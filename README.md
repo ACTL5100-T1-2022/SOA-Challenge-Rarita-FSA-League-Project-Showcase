@@ -120,7 +120,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * Prediction of inflation for future salaries of each player is done based on a linear regression which describes the relationship between time and inflation rates. Such a model does not account for variation on some variables such as employability of that position, players’ performance, the experience of players, etc. 
 
 <p align="center">
-**Thank you for reading our report and we hope you have a pleasant day!** 
+   Thank you for reading our report and we hope you have a pleasant day!
 </p>
 <br>
 <p align="center">
