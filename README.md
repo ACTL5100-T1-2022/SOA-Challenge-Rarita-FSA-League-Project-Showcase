@@ -65,9 +65,12 @@ flowchart LR;
 # Economic Impact
 ### Rarita's Economy 
 According to given Rarita's economic data, several trends are observed:
-* Declining GDP
-* Decreasing Inflation Rates
-* Decreasing Spot Rates (across different maturities)
+* Declining GDP ![1](https://user-images.githubusercontent.com/102961370/161872236-2d0a6d83-aa24-4414-9153-8a8b5a1084b0.png)
+* Decreasing Inflation Rates![2](https://user-images.githubusercontent.com/102961370/161872270-08ae5435-f885-4ee8-bcd5-c0e27e0ee9da.png)
+* Decreasing Spot Rates (across different maturities)![3](https://user-images.githubusercontent.com/102961370/161872288-cb88dbf5-6e1d-4c6b-b1d0-7589d77fbc28.png)
+From economic perspective, Rarita seems to be at contraction phase. 
+
+### Analysis of Revenues, Expenses and Salaries
 
 # Implementation Plan
 ### Team Renewal Plan
