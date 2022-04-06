@@ -108,8 +108,8 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * The Shapiro-Wilk test is used to test the normality of the benchmark regarding our comparison between the constructed soccer team against those ‘competitive teams’. Consequently, it is not sensitive to outliers when testing for normalities of the distribution and can only handle up to 5000 simulated results.
     * Prediction of inflation for future salaries of each player is done based on a linear regression which describes the relationship between time and inflation rates. Such a model does not account for variation on some variables such as employability of that position, players’ performance, the experience of players, etc. 
  
-** Thank you for reading our report and we hope you have a pleasant day!** 
-<iframe src="https://giphy.com/embed/RREDhgYnW6EZAzhYLB" width="480" height="436" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thanks-jojofalk-jojofalkillustration-RREDhgYnW6EZAzhYLB">via GIPHY</a></p>
+**Thank you for reading our report and we hope you have a pleasant day!** 
+![giphy](https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif)
 
 # References 
 * Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
