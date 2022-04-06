@@ -110,7 +110,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * Percentages higher than the standard 100% has been removed as the playtime is too short to be considered. <br>
     
 <p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif alt="Data Limitation">
+   <img width="350" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif alt="Data Limitation">
 </p>   
 
 * **Data Limitation**
