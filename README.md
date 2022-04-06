@@ -14,7 +14,7 @@
 # Executive Summary
 
 <p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/72643422/161918841-a6490287-15a6-4821-ab5e-ebada58b00dc.gif>
+   <img width="500" src= https://user-images.githubusercontent.com/72643422/161918841-a6490287-15a6-4821-ab5e-ebada58b00dc.gif alt="Football">
 </p>
 
 
@@ -110,7 +110,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * Percentages higher than the standard 100% has been removed as the playtime is too short to be considered. <br>
     
 <p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif>
+   <img width="500" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif alt="Data Limitation>
 </p>
 
 * **Data Limitation**
@@ -122,7 +122,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
 **Thank you for reading our report and we hope you have a pleasant day!** 
 <br>
 <p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif>
+   <img width="500" src= https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif alt="Thank you>
 </p>
 
 # References 
