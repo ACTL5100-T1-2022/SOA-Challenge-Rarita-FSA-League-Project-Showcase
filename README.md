@@ -74,9 +74,12 @@ From economic perspective, Rarita seems to be at contraction phase.
 [Expected revenue table](https://user-images.githubusercontent.com/102961370/161873107-63905fa7-21a7-4acb-a6b3-686236d4d309.png) demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend. [Expected expense & salary table](https://user-images.githubusercontent.com/102961370/161873337-a17cf908-c22d-4dad-9422-132ee371174a.png) also provides a brief estimations of the possible future outgoings. What is noteworthy is that the [salary expenses](https://user-images.githubusercontent.com/102961370/161873989-1144345b-eb3f-462c-9965-dea57b6e3798.png)are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
 
 ### Indirect Economic Impacts
-
-
-
+* Construction and urban Development
+New football team will raise the demand of stadiums and relevant infrastructures. Accordingly, this will benefit urban development of Rarita. 
+* Tourism
+Research shows that during 2002 FIFA World Cup in South Korea, above 50% of total tourist arrivals can be classified as attracted by the World Cup and this generates great economic growth to South Korea’s economy. Similarly, for Rarita, tourism will also become an important source of indirect economic revenues and benefit Rarita's economy. 
+* National Brand
+Prosperity of football will benefit Rarita’s nation branding and operate greater international perceptions of Rarita. With a much closer relation with football, Rarita is expected to have a more positive image by people. 
 
 # Implementation Plan
 ### Team Renewal Plan
