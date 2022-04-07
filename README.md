@@ -68,7 +68,6 @@ flowchart LR;
 According to given Rarita's economic data, several trends are observed:
 * Declining GDP
 
-![11](https://user-images.githubusercontent.com/102961370/162181778-f882c2a2-e035-4f59-ba78-47efb24cebde.png)
 <p align="center">
    <img width="500" src= https://user-images.githubusercontent.com/102961370/161916581-6e6d4b76-9f0a-41ba-99d5-e976eaf318de.png alt="ei1">
 </p>
