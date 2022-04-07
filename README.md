@@ -1,5 +1,4 @@
 ![](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/Banner.png)
-<img src="https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/Banner.png" />
 
 # Table of Content
 > 
