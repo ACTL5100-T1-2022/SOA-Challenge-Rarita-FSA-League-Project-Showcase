@@ -29,13 +29,13 @@
 * Creation of a brand around the team
 
 # Team selection
-* **Mmesurement One --- Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
+* **Measurement One - Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
 
 <p align="center">
    <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png alt="ts1">
 </p>
 
-* **Measurement Two Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
+* **Measurement Two - Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
 
 <p align="center">
    <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
