@@ -53,7 +53,7 @@ flowchart LR;
    <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png alt="ts3">
 </p>
 
-**Competitive Testing:**
+### Competitive Testing:
 * Step 1: Pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team.
 * Step 2: Simulate 5000 times to create a dstribution of the teams' average PPI.
 * Step 3: Test if the distribution is normal distribution using Shapiro Test.
