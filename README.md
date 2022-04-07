@@ -117,9 +117,9 @@ The expected revenue table demonstrates that the chosen football team will gener
 ### Team Renewal Plan
 Benchmark above can be continuously used to update the team roster regularly under the assumption that the benchmark will remain the same for the next ten years. Before each tournament, team management should use the PPI and SE of the previous league as indicators to execute the three-round selection mentioned in the team selection part. It is pertinent to note that teams should use foreign players with discretion because of the loan restrictions. The decision to borrow foreign players to fill the vacant positions will be made after the first two rounds of the draft.  
 ### Fund-Raising Strategy   
-* sell football match tickets.
-* loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons. 
-* design and sell unique merchandise like headbands, t-shirts, and even player trading cards.
+* Sell football match tickets.
+* Loan out redundant players to other countries. Though this method will generate revenues, one should be careful of lending high-ranking players during on-seasons. 
+* Design and sell unique merchandise like headbands, t-shirts, and even player trading cards.
 ### Marketing Strategy 
 * Build a brand about the team. Designating the most famous players to promote the brand’s apparel to promote the team should also be advocated. 
 * Use social media platforms like Twitter, Instagram, and even Facebook to update fans about the latest news concerning the team. TV and radio interviews can also raise the recognition of the football team. 
