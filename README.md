@@ -1,4 +1,4 @@
-![Banner.png](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/Banner.png)
+![Banner.png](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Banner.png)
 
 # Table of Content
 > 
