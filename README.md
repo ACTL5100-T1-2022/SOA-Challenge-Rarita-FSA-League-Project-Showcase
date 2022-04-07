@@ -60,7 +60,7 @@ flowchart LR;
 
 * **Testing Result**: [Result of Shapiro Test](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/test.png) indicates that [the distribution](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/distribution.png) is normal and the probability for Rarita Team to be competitive is close to 1.
 
-* **R code**: Click to view the outcomes of [R Code](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/Poisson-Loves-Exponential-RCode.pdf)
+* **R Code**: Click to view the outcomes of [R Code](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/Poisson-Loves-Exponential-RCode.pdf)
 
 # Economic Impact
 ### Rarita's Economy 
