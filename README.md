@@ -169,15 +169,9 @@ Injuries to player health cause higher expected loss for the team than exposure 
 </p>
 
 # References 
-
 * Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
-
 * EY (Ed.). (2022). Premier League: Economic and social impact. Retrieved from https://resources.premierleague.com/premierleague/document/2022/01/17/b61d9bb0-1488-4cd1-be25-82be98073252/EYUK-000142222_PL-economic-and-social-contribution_28_Spread_HR_2.pdf?utm_source=premier-league-website&utm_campaign=website&utm_medium=link.
-
 * Heart attacks, sudden deaths in football must force authorities to raise safety bar. (2022, January 3). Retrieved from Arab News website: https://www.arabnews.com/node/1997221/sport
-
 * Lee, C.-K., & Taylor, T. (2005). Critical reflections on the economic impact assessment of a mega-event: the case of 2002 FIFA World Cup. Tourism Management, 26(4), 595–603. https://doi.org/10.1016/j.tourman.2004.03.002
-
 * Medina, D., Lizarraga, A. & Drobnic, F. (2014). Injury Prevention and Nutrition in Football. Gatorade Sports Science Institute. Retrieved from https://www.gssiweb.org/sports-science-exchange/article/sse-132-injury-prevention-and-nutrition-in-football#articleTopic_7
-
 * The inflationary consequences of Russia’s war will spread. (2022, March 19). Retrieved from The Economist website: https://www.economist.com/finance-and-economics/the-inflationary-consequences-of-russias-war-will-spread/21808192
