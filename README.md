@@ -84,7 +84,7 @@ According to given Rarita's economic data, several trends are observed:
 </p>
 
 <br>
-From economic perspective, Rarita seems to be at contraction phase. 
+From economic perspective, Rarita seems to be at a contraction phase. 
 
 ### Analysis of Revenues, Expenses and Salaries
 The expected revenue table demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend.    
