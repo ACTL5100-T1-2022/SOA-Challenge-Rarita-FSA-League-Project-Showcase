@@ -68,6 +68,7 @@ flowchart LR;
 According to given Rarita's economic data, several trends are observed:
 * Declining GDP
 
+![Image of Decling GDP](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png)
 <p align="center">
    <img width="500" src= https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png alt="ei1">
 </p>
