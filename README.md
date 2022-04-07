@@ -32,6 +32,8 @@
 ### Two criteria used to select players:
 1. **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
 
+![team](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png)
+
 <p align="center">
    <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png alt="ts1">
 </p>
