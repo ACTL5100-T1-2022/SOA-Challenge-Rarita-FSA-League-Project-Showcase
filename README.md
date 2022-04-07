@@ -69,7 +69,7 @@ According to given Rarita's economic data, several trends are observed:
 * Declining GDP
 
 <p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916581-6e6d4b76-9f0a-41ba-99d5-e976eaf318de.png alt="ei1">
+   <img width="500" src= https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png alt="ei1">
 </p>
 
 * Decreasing Inflation Rates
