@@ -132,10 +132,10 @@ As the data given are limited, hence a few assumptions have been made for furthe
 Assumptions regarding the prediction of the inflation rate, interest rate, revenue, and expenses are a linear relationship against time using a linear regression model for the simplicity of our modeling. The team selection process is also based on the assumption that the performance of the players is the same in the future with the time of estimation when selections were made.
 
 # Risk
-* **Health-related risks & risk mitigation techniques**
+* **Health-Related Risks & Risk Mitigation Techniques**
 <br>According to Arab News, footballers are likely to suffer from heart conditions, which can lead to them collapsing, and even dying. These health problems can directly affect the player’s performance during a competition. The death of a player caused by sudden heart attack during a competition will directly affect the team’s morale and the outcome of the game. To detect risks, routine health checks will be conducted. Health problems can be financially costly for both teams and individuals, in which the use of life and health insurance will help facilitate the transfer of financial risk. Furthermore, to prevent footballers’ injury, we could encourage them to wear full and proper equipment, and increase nutrition interventions (Gatorade Sports Science Institute, n.d.).           
 
-* **The general environmental risk & risk mitigation techniques** 
+* **The General Environmental Risk & Risk Mitigation Techniques** 
 <br>The Covid-19 breakout postponed the Tokyo Olympic Games originally held in 2020 to 2021 which resulted in a delay for players to obtain success in the competition. This implies that the payback period of the investment will be stretched out. Peace can create fortune while war will destroy fortune. With the recent war between Russia and Ukraine, it has affected the inflation rate to change and increase (The Economist, 2022). Faced with the risk of the general environment, teams can only implement a policy of risk retention. In addition, the cycle of economic as well as social development is predictable, hence, team management should adjust the risk exposure promptly, including investment and team promotion. 
 
 ### Risk summary 
