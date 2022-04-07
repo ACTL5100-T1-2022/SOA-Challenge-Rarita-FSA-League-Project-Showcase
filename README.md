@@ -139,7 +139,7 @@ Assumptions regarding the prediction of the inflation rate, interest rate, reven
 * **The General Environmental Risk & Risk Mitigation Techniques** 
 <br>The Covid-19 breakout postponed the Tokyo Olympic Games originally held in 2020 to 2021 which resulted in a delay for players to obtain success in the competition. This implies that the payback period of the investment will be stretched out. Peace can create fortune while war will destroy fortune. With the recent war between Russia and Ukraine, it has affected the inflation rate to change and increase (The Economist, 2022). Faced with the risk of the general environment, teams can only implement a policy of risk retention. In addition, the cycle of economic as well as social development is predictable, hence, team management should adjust the risk exposure promptly, including investment and team promotion. 
 
-### Risk summary 
+### Risk Summary 
 Injuries to player health cause higher expected loss for the team than exposure to systemic risk. The game is very intense, so the incidence of health problems in professional players is much higher than the likelihood of adverse changes in the general environment. Health risk mitigation is easier to take control of and the past injured players’ statistical figures can determine the severity. However, general environmental risks are usually unexpected and can only be retained. Thus health risks that are convenient to control are the primary risks and the broader environmental risks are secondary risks. 
 
 # Data & Data Limitations
