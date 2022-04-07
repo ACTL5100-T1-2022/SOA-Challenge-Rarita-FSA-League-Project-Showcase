@@ -31,16 +31,13 @@
 # Team selection
 ### Two criteria used to select players:
 1. **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
-
-![team1](https://raw.githubusercontent.com/github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png)
-
 <p align="center">
    <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/PPI.png alt="ts1">
 </p>
 
 2. **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
 <p align="center">
-<img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
+   <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
 </p>
 
 ### 3 Round Selection Process:
