@@ -40,11 +40,7 @@
 
 2. **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
 
-![team2](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png)
-
-<p align="center">
-   <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
-</p>
+<img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
 
 ### 3 Round Selection Process:
 ```mermaid
