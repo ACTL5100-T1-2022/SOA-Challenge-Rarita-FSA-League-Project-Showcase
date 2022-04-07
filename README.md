@@ -162,7 +162,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
 <br>
 <p align="center"><b>
    Thank you for reading our report and we hope you have a pleasant day!
-</p></b>
+</b></p>
 <br>
 <p align="center">
    <img width="500" src= https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif alt="Thank you">
