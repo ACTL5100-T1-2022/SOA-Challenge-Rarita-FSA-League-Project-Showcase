@@ -30,13 +30,11 @@
 
 # Team selection
 ### Two criteria used to select players:
-1. **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics. Click it to see more details.
+* **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics.
 ![teamone](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png)
 
-2. **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
-<p align="center">
-   <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/SE.png alt="ts2">
-</p>
+* **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
+![teamtwo](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/SE.png)
 
 ### 3 Round Selection Process:
 ```mermaid
@@ -45,9 +43,7 @@ flowchart LR;
     B--the team is full-->D(Round 3: Remove excess players with lowest PPI)
 ```
 ### Team Selection Results:
-<p align="center">
-   <img width="500" src= https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/team%20selection.png alt="ts3">
-</p>
+![teamthree](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/team%20selection.png)
 
 ### Competitive Testing:
 * Step 1: Pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team.
