@@ -37,6 +37,7 @@
 ![teamtwo](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/SE.png)
 
 ### 3 Round Selection Process:
+![teamfour](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/flowchart.png)
 ```mermaid
 flowchart LR;
     A(Round 1: Top 50% of SE)-->B(Round 2: Rarita Players in Top 10% of PPI)--the team is not full-->C(Round 3: Add foreign players with top PPI)
