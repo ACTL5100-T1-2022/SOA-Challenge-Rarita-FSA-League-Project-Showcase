@@ -13,9 +13,9 @@
 
 # Executive Summary
 
-<p align="center">
+<figure align="center">
    <img width="500" src= https://user-images.githubusercontent.com/72643422/161918841-a6490287-15a6-4821-ab5e-ebada58b00dc.gif alt="Football">
-</p>
+</figure>
 
 
 > This report focuses on the creation of a competitive national football team for Rarita. The decision to create a national team might, at first, seem to be a sound one. In the UK for instance, the value added to the economy by the Premier League grossed 7.6 billion pounds in 2019/20 (EY, 2022). However, the implementation will not be an easy one. Indeed, to generate a positive cash flow for the country, we must take into consideration the allocated budget to fund the team, while making sure that the brand created around the latter generates a positive income stream.
@@ -143,9 +143,9 @@ Injuries to player health cause higher expected loss for the team than exposure 
     * The raw data consist of negative values in variables such as Standard Free Kicks, Standard shots on target per 90 minutes, etc. Removing it would be reasonable as it would be impossible to have negative number of shots. Click [here](https://github.com/ACTL5100-T1-2022/github-showcase-page-group-exemption/blob/main/2022-student-research-case-study-player-data%20202234.xlsx) to have a look.
     * Percentages higher than the standard 100% has been removed as the playtime is too short to be considered. <br>
     
-<p align="center">
+<figure align="center">
    <img width="200" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif alt="Data Limitation">
-</p>   
+</figure>
 
 * **Data Limitation**
     * Removing data based on such analysis would result in misleading or inaccurate results as we may remove important information which provides high significance to our analysis.
@@ -158,9 +158,9 @@ Injuries to player health cause higher expected loss for the team than exposure 
    Thank you for reading our report and we hope you have a pleasant day!
 </b></p>
 <br>
-<p align="center">
+<figure align="center">
    <img width="500" src= https://user-images.githubusercontent.com/72643422/161918286-b48964f4-f912-40b1-a60c-16330e2c64b2.gif alt="Thank you">
-</p>
+</figure>
 
 # References 
 * Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
