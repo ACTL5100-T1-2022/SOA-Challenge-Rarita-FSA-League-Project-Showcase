@@ -32,7 +32,7 @@
 * **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" width="800" alt="teamone" />
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" width="700" alt="teamone" />
 </p>
 
 * **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
@@ -47,7 +47,7 @@
 
 ### Team Selection Results:
 <p align="center">
-   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/team%20selection.png" width="800" alt="teamfour" />
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/team%20selection.png" width="700" alt="teamfour" />
 </p>
 
 ### Competitive Testing:
