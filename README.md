@@ -62,21 +62,16 @@ According to given Rarita's economic data, several trends are observed:
 * Declining GDP
 
 ![Image of Decling GDP](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png)
-<p align="center">
-   <img width="500" src= https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png alt="ei1">
-</p>
 
 * Decreasing Inflation Rates
 
-<p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916610-5461e2f3-3804-4b34-9827-aee02a702c8b.png alt="ei2">
-</p>
+![Image of Decreasing Inflation Rates](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/2.png)
+
 
 * Decreasing Spot Rates (across different maturities)
 
-<p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916692-547c4336-71b3-45ad-bede-b1b4a185ab6b.png alt="ei3">
-</p>
+![Decreasing Spot Rates](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/3.png)
+
 
 <br>
 From economic perspective, Rarita seems to be at a contraction phase. 
@@ -84,21 +79,17 @@ From economic perspective, Rarita seems to be at a contraction phase.
 ### Analysis of Revenues, Expenses and Salaries
 The expected revenue table demonstrates that the chosen football team will generate significant amount of revenues throughout the following 10 years in an increasing trend.    
 
-<p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916813-cfb60b24-c58c-4c79-98f3-ebe71aa8bf78.png alt="ei4">
-</p>
+![Revenue Table](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/4.png)
+
 
 <br>Then, expected expense & salary table also provides a brief estimations of the possible future outgoings. 
 
-<p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161916926-d3b1efc4-4bae-4f62-be3b-ff240ebbeaab.png alt="ei5">
-</p>
+![Expenses & Salary Table](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/5.png)
 
-<br>What is noteworthy is that the salary expenses are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expenses.
 
-<p align="center">
-   <img width="500" src= https://user-images.githubusercontent.com/102961370/161917030-72f6a848-5589-4fcd-ada1-b6d33346e1d4.png alt="ei6">
-</p>
+<br>What is noteworthy is that the salary expenses are expected to decline in the future which means that in the long term, Rarita is expected to receive higher profit due to decreased salary expensee.
+
+![Decling Salary Plot](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/6.png)
 
 ### Indirect Economic Impacts
 * Construction and urban Development
