@@ -32,7 +32,7 @@
 * **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics.
 
 <p align="center">
-   <width="100" img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" alt="teamonee" />
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" width="500" alt="teamonee" />
 </p>
 
 ![teamone](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png)
