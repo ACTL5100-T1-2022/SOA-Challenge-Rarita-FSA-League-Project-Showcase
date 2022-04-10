@@ -32,19 +32,23 @@
 * **Player Performance Index (PPI)**: Measure the ability of player. It is weighted average score based on ranking in different statistics.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" width="500" alt="teamonee" />
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png" width="800" alt="teamone" />
 </p>
 
-![teamone](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/PPI.png)
-
 * **Salary Efficiency (SE)**: Measure whether a player is worth the salary he received.
-![teamtwo](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/SE.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/SE.png" width="500" alt="teamtwo" />
+</p>
 
 ### 3 Round Selection Process:
-![teamfour](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/flowchart.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/flowchart.png" width="900" alt="teamthree" />
+</p>
 
 ### Team Selection Results:
-![teamthree](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/team%20selection.png)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/team%20selection.png" width="800" alt="teamfour" />
+</p>
 
 ### Competitive Testing:
 * Step 1: Pick players randomly from the competitive couuntries to build a team with same combination of Rarita Team.
