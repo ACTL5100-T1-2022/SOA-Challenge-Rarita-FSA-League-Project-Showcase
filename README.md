@@ -135,6 +135,8 @@ Injuries to player health cause higher expected loss for the team than exposure 
    <img width="200" src= https://user-images.githubusercontent.com/72643422/161919592-21d8a002-7c69-4be4-bf1f-f1761c3e59ba.gif alt="Data Limitation">
 </figure>
 
+[![](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%Limitation.gif)](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%Limitation.gif)
+
 * **Data Limitation**
     * Removing data based on such analysis would result in misleading or inaccurate results as we may remove important information which provides high significance to our analysis.
     * In 2021, players are transferred between clubs resulting in multiple information for the same player, however, only the value with the highest salary and PPI calculated will be used. This may not fully reflect the potential and the performance of the player on the soccer team.
