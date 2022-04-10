@@ -64,7 +64,7 @@ According to given Rarita's economic data, several trends are observed:
 ![Image of Decling GDP](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png)
 
 <p align="center">
-   <img width="800" src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png" />
+   <img width="600" src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/1.png" />
 </p>
 
 * Decreasing Inflation Rates
