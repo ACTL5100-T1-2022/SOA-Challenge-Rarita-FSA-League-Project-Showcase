@@ -136,7 +136,7 @@ Injuries to player health cause higher expected loss for the team than exposure 
 [![](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%20Limitation.gif)](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%20Limitation.gif)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Data%20Limitation.gif" alt="animated" />
+   <img width="200" src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Data%20Limitation.gif" alt="animated" />
 </p>
 
 * **Data Limitation**
