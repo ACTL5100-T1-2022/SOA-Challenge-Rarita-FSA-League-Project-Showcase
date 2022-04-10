@@ -13,12 +13,6 @@
 
 # Executive Summary
 
-<figure align="center">
-   <img width="500" src= https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Football.gif alt="Football">
-</figure>
-
-[![](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Football.gif)](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Football.gif)
-
 <p align="center">
    <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Football.gif" alt="animated" />
 </p>
@@ -141,6 +135,10 @@ Injuries to player health cause higher expected loss for the team than exposure 
 
 [![](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%20Limitation.gif)](https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%20Limitation.gif)
 
+<p align="center">
+   <img src="https://github.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/blob/c409f5dcef90bd092fc5858063a5e2cd4c8dc9c6/Data%20Limitation.gif" alt="animated" />
+</p>
+
 * **Data Limitation**
     * Removing data based on such analysis would result in misleading or inaccurate results as we may remove important information which provides high significance to our analysis.
     * In 2021, players are transferred between clubs resulting in multiple information for the same player, however, only the value with the highest salary and PPI calculated will be used. This may not fully reflect the potential and the performance of the player on the soccer team.
@@ -157,6 +155,10 @@ Injuries to player health cause higher expected loss for the team than exposure 
 </figure>
 
 [![](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Thank%20you.gif)](https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Thank%20you.gif)
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/SOA-Challenge-Rarita-FSA-League-Project-Showcase/main/Thank%20you.gif" alt="animated" />
+</p>
 
 # References 
 * Allmers, S., & Maennig, W. (2009). Economic impacts of the FIFA Soccer World Cups in France 1998, Germany 2006, and outlook for South Africa 2010. Eastern Economic Journal, 35(4), 500–519. https://doi.org/10.1057/eej.2009.30
